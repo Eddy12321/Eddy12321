@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eddy12321
+- 👋 Hi, I’m Edward Seymour
 - I’m interested in embedded systems, data science, and robotics.
 - I’m currently learning python for data science with Springboard
 - 📫 email: edwardjs43@gmail.com 
